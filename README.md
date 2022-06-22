@@ -6,4 +6,4 @@ So far, I have seen that coding is more about decoding [the Mind] than coding
 
 ### To Connect
 
-Twitter: [@atakanaltok](https://twitter.com/atakanaltok)
+You can write me from Twitter or [LinkedIn](https://www.linkedin.com/in/atakanaltok/)

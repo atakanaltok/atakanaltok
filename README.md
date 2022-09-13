@@ -7,4 +7,4 @@ So far, I have seen that coding is more about decoding [the mind] than coding
 
 ### To Connect
 
-You can get in touch via [Twitter](https://twitter.com/atakanaltok) or [LinkedIn](https://www.linkedin.com/in/atakanaltok/)
+You can get in touch via [Twitter](https://twitter.com/atakanaltok) 

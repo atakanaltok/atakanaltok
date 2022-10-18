@@ -1,6 +1,6 @@
 ### What am I doing?
 
-I am discovering the programming space: learning about projects, businesses, and see how people create value using code
+I am discovering the programming space: learning about projects, businesses, and seeing how people create value using code
 
 <br>
 

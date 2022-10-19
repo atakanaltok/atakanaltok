@@ -4,6 +4,6 @@ I am discovering the programming space: learning about projects, businesses, and
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=atakanaltok&count_private=true&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=atakanaltok&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&theme=highcontrast)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atakanaltok&layout=compact&theme=highcontrast) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atakanaltok&layout=compact&theme=highcontrast) 

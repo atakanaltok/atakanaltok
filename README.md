@@ -4,7 +4,7 @@ I am discovering the programming space: learning about projects, businesses, and
 
 <br>
 
-### Connect
+### Contact
 
 You can get in touch via [Twitter](https://twitter.com/atakanaltok) 
 

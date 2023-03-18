@@ -1,6 +1,8 @@
-### What am I doing?
+## Projects
 
-I am discovering the programming space: learning about projects, businesses, and seeing how people create value using code
+&#x25C6; Coming Soon...
+
+<!-- &#x25C6;  -->
 
 <br>
 
